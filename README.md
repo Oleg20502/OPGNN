@@ -1,2 +1,4 @@
 # OPGNN
-Oprical properties prediction using 2D and 3D graph representations
+Oprical properties prediction using 2D (DMPNN) and 3D (PaiNN) graph representations
+
+
